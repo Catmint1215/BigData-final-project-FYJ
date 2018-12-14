@@ -21,5 +21,5 @@ GU Minyi 18445276 (GitHub ID guminyi)
 
 CHEN Ye 18428665 (GitHub ID Shinonomee)
 
-DU Jiawei 18420990 (GitHub ID 
+DU Jiawei 18420990 (GitHub ID Jasmine-dudu) 
 ## Reference
