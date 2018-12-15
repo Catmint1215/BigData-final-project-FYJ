@@ -5,8 +5,8 @@ According to Statista, the global mobile internet penetration has exceeded half 
 - [Data Collection Code](https://github.com/Catmint1215/BigData-final-project-GoogleAppStore/tree/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Google%20Play%20Apps%20scrapy)
 - [Data Visualization (divided in 4 parts)](https://github.com/Catmint1215/BigData-final-project-GoogleAppStore/tree/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Data%20Visualization)
 - [Assessments Sentiment Analysis (including Polarity and Subjectivity)](https://github.com/Catmint1215/BigData-final-project-GoogleAppStore/tree/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Assessments%20%20Analysis)
-- Final Report -- [with code](https://nbviewer.jupyter.org/github/Catmint1215/BigData-final-project-GoogleAppStore/blob/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Report/google%20app%20final.ipynb)
-[without code]()
+- Final Report -- [With code](https://nbviewer.jupyter.org/github/Catmint1215/BigData-final-project-GoogleAppStore/blob/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Report/google%20app%20final.ipynb)
+&[Without code](https://github.com/Catmint1215/BigData-final-project-GoogleAppStore/blob/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Report/How%20can%20we%20make%20and%20promote%20an%20App%20successfully.pdf)
 - [Website](https://catmint1215.github.io/).
 - [Website Rep](https://github.com/Catmint1215/Catmint1215.github.io).
 ## About Data
