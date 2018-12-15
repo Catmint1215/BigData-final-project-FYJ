@@ -1,1 +1,1 @@
-Jupyter [Link](https://nbviewer.jupyter.org/github/Catmint1215/BigData-final-project-GoogleAppStore/blob/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Report/google%20app%20final.ipynb)
+Jupyter Notebook with code [Link](https://nbviewer.jupyter.org/github/Catmint1215/BigData-final-project-GoogleAppStore/blob/master/How%20to%20make%20and%20promote%20Apps%20sucessfully/Report/google%20app%20final.ipynb)
